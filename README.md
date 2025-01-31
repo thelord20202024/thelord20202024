@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @thelord20202024
-- 👀 I’m interested in programining with Ai
+- 👋 Hi, I’m Omar
+- 👀 I’m interested in programining 
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on  big project 
 - 📫 How to reach me thought email
